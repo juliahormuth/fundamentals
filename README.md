@@ -1,1 +1,1 @@
-# fundamentals
+# Review of early javascript concepts
