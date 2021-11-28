@@ -1,4 +1,4 @@
-// find
+// Find
 // finds the first value of the array that presents the implemented logic
 
 // different from filter, which would filter all of the same logic
