@@ -1,5 +1,6 @@
 let nome = 'julia'
 
+//arguments is the value in the parameter. Example: parameter name and argument julia
 function saudacao(nome) {
     const returned = `Olá ${nome}`
     return returned

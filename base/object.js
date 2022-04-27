@@ -6,6 +6,8 @@ const person = {
         console.log(`Im ${this.age} years old.`)
     },
 
+    //method when is into the object
+
     incrementAge() {
         this.age++
     }
