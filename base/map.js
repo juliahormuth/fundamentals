@@ -30,3 +30,15 @@ const ids = pessoas.map((item) => {
     return item.id = Math.random()
 })
 console.log(ids)
+
+// Criando um segundo obj
+
+const teste = pessoas.map((item) => {
+    const newObj = { ...item }
+    newObj.id = 2
+    return newObj
+})
+
+
+console.log(pessoas)
+console.log(teste)
