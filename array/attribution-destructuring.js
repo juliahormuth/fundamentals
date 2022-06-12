@@ -10,7 +10,7 @@ const newNumbers = [1, 2, 3, 4, 5, 6, 7]
 //skip the numbers when you want
 const [um, , tres, , cinco] = newNumbers
 
-console.log(um, tres, cinco)
+console.log(um, tres, cinco) //1,3,5 
 
 const newArray = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 
@@ -22,6 +22,6 @@ console.log('Set to new variable ' + test)
 
 const newArray2 = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 
-const [, [, , six]] = newArray2
+const [, [, , six]] = newArray2 // Just 6
 
-console.log(six)
+console.log(six) //6
