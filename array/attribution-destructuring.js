@@ -25,3 +25,7 @@ const newArray2 = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 const [, [, , six]] = newArray2 // Just 6
 
 console.log(six) //6
+
+const [list1, list2, list3] = newArray2
+
+console.log(list3[2]) //9
