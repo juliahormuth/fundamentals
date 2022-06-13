@@ -1,0 +1,9 @@
+## What the difference between the 3 forms of 'For'?
+
+### In the 'classic for' you can to have the index and the value
+
+### In the 'for in' you can also to have the index and the value but with less code. You can use the 'for in' also with objects
+
+### In the 'for of' you can only to have the value
+
+### In the 'forEach' you can to have the index, value and the complete array when needed
