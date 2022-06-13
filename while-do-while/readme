@@ -1,0 +1,7 @@
+### What's the difference between "for", "while" and "do-while"?
+
+### You can use the "while" to make a loop when you don't know how many things are to you check
+
+### The "while" check the condition first and then make de loop
+
+### The "do-while" make a loop and after check the condition to know if it should to stop
