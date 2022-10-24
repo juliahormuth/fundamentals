@@ -26,3 +26,9 @@ for (p of products) {
   console.log(p[1]); // The products without keys
   // p[0] come the keys
 }
+
+function info(key, value) {
+  console.log("Chave: " + key + "- Valor: " + value);
+}
+
+products.forEach(info);
